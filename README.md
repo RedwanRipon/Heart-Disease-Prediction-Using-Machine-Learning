@@ -92,5 +92,5 @@ We're going to use pandas, matplotlib and numoy for data analysis and manipulati
 
 
 # Load Data
-df = pd.read_csv("heart-disease.csv")
+df = pd.read_csv("heart-disease.csv") <br></br>
 df.shape 
